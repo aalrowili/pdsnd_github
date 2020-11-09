@@ -1,20 +1,18 @@
-
-### Project by Ahmed
-### 11/2/2020
-
-### refactoring updated
-
 ### Date created
+ 11/2/2020
+
+### Project Title
+ Explore US Bikeshare Data
 
 
+### Description
 
-### Explore US Bikeshare Data
+The project allows us to get an understanding of the major cities in US. Answering questions will make it more interesting with reference to statistics. Scripts help us to display statical data in better ways.
 
 
+### Files used
+ bikeshare.py
 
-### The project allows us to get understanding about the major cities in US. Answering questions will make it more interesting with reference to statistics. Scripts help us to display statical data in better ways.
-
-### bikeshare.py,chicago.csv,new_york_city.csv and washington.csv.
-
-### https://github.com/udacity/pdsnd_github 
+### Credits
+https://github.com/aalrowili/pdsnd_github
 
